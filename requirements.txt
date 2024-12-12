@@ -1,4 +1,7 @@
 Python 
 OpenCV  
 Pandas
+Numpy
 Pillow
+cv2
+csv
