@@ -42,8 +42,6 @@ Capture images of students for training the model.
 
 #### 2. Train Images  
 Train the facial recognition model using the captured images.  
-![image](https://github.com/user-attachments/assets/57e0e96a-0664-47be-9f69-2f3acf9c5728)
-
 
 ![Screenshot 2024-12-12 145600](https://github.com/user-attachments/assets/385a4e3d-a736-4050-9271-8e484de5ae8f)
 
