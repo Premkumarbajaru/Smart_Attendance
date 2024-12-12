@@ -10,9 +10,10 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 2. [Technologies Used](#technologies-used)
 3. [Directory Structure](#directorystructure)
 4. [Application Workflow](#application-workflow) 
-5. [Installation](#installation)  
-6. [Contributing](#Contributing)  
-7. [License](#license)  
+5. [Installation](#installation)
+6. [Usage](#Usage)  
+7. [Contributing](#Contributing)  
+8. [License](#license)  
 
 ---
 
