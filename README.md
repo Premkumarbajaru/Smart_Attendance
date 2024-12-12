@@ -8,7 +8,7 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 ## Table of Contents
 1. [Features](#features)  
 2. [Technologies Used](#technologies-used)
-3. [Directory Structure](#DirectoryStructure)
+3. [Directory Structure](#directorystructure)
 4. [Application Workflow](#application-workflow) 
 5. [Installation](#installation)  
 6. [Contributing](#Contributing)  
