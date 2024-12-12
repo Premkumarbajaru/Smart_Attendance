@@ -36,26 +36,43 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 
 #### 1. Take Images  
 Capture images of students for training the model.  
+
+
 ![Screenshot 2024-12-12 114112](https://github.com/user-attachments/assets/4324e068-901d-473c-8613-03f895b3b7eb)
 
 #### 2. Train Images  
 Train the facial recognition model using the captured images.  
-![Train Images](path_to_image/train_images.png)
+![Screenshot 2024-12-10 104509](https://github.com/user-attachments/assets/2dda9520-1d99-4fa8-9df2-21984e2978a5)
+![Screenshot 2024-12-12 145600](https://github.com/user-attachments/assets/385a4e3d-a736-4050-9271-8e484de5ae8f)
+
+
 
 #### 3. Smart Attendance  
-Automatically record attendance by recognizing faces.  
-![Smart Attendance](path_to_image/smart_attendance.png)
+Automatically record attendance by recognizing faces. 
+
+
+![Screenshot 2024-12-12 114037](https://github.com/user-attachments/assets/2ad801e2-f75e-4a24-a6c0-d6254681544f)
+
 
 #### 4. Manual Attendance  
 Manually enter attendance when necessary.  
-![Manual Attendance](path_to_image/manual_attendance.png)
+
+![Screenshot 2024-12-12 145618](https://github.com/user-attachments/assets/a29c0b6d-3f71-4b44-8737-730cc988cdf9)
+
+
 
 #### 5. Admin Panel  
-View and manage registered student details.  
-![Admin Panel](path_to_image/admin_panel.png)
+View and manage registered student details.
+
+
+![Screenshot 2024-12-12 114105](https://github.com/user-attachments/assets/e6f5b4f9-2632-4c7f-bf50-1a962ad95aae)
+
 
 ### Closing the Application
 The app supports a safe exit via the **Close Camera** button or the window close button.
+
+
+![Screenshot 2024-12-12 113134](https://github.com/user-attachments/assets/e997b5b6-fba5-4560-993d-c041d4c9636f)
 
 ---
 
