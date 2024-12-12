@@ -17,11 +17,11 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 ---
 
 ## Features
-- **Real-time Facial Recognition**: Use your webcam to automatically record attendance.  
-- **GUI Interface**: User-friendly graphical interface for seamless interaction.  
-- **Smart Attendance**: Automatically recognize and mark attendance based on stored facial data.  
-- **Manual Attendance**: Enter attendance details manually for additional flexibility.  
-- **Admin Panel**: Manage and view student data directly from the application.  
+- **Face Recognition**: Automatically recognize students' faces and mark their attendance.
+- **Image Capture**: Capture and save images for training the recognition model.
+- **Manual Attendance**: Option to manually fill attendance records.
+- **CSV Export**: Generate attendance reports in CSV format.
+- **Database Integration**: Store attendance records in a MySQL database.  
 
 ---
 
