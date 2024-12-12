@@ -109,6 +109,38 @@ To run CareCue locally, follow these steps:
 ```bash
    python main.py
 ```
+### 4. Set Up MySQL Database
+- Create a MySQL database to store attendance records.
+- Update the database connection details in the code as needed.
+
+### 5. Download Haarcascade
+Download the Haarcascade XML file for face detection from the [OpenCV GitHub repository](https://github.com/Premkumarbajaru/Smart_Attendance) and place it in the project directory.
+
+
+---
+
+
+## Usage
+
+### 1. Capture Images
+- Run `main_Run.py` to open the GUI.
+- Enter the student's enrollment number and name.
+- Click on **"Take Images"** to capture their face images.
+
+### 2. Train the Model
+- After capturing images, click on **"Train Images"** to train the face recognition model.
+
+### 3. Automatic Attendance
+- Select **"Automatic Attendance"** to start the face recognition process using the webcam.
+
+### 4. Manual Attendance
+- Use the **"Manually Fill Attendance"** option to manually fill attendance records.
+
+### 5. View Registered Students
+- Access the admin panel to view the list of registered students and their details.
+
+---
+
 
 ## Contributing
 
