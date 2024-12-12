@@ -66,7 +66,7 @@ To run CareCue locally, follow these steps:
 
 1. Clone this repository:
 ```bash
-    https://github.com/likhith1409/CareCue_Main
+    https://github.com/Premkumarbajaru/Smart_Attendance.git
 ```
 2. Install dependencies:
 ```bash
@@ -74,9 +74,8 @@ To run CareCue locally, follow these steps:
 ```
 3. Run the Flask application:
 ```bash
-   python app.py
+   python main.py
 ```
-4. Access CareCue in your web browser at `http://localhost:5000`.
 
 ## Contributing
 
@@ -84,5 +83,5 @@ Contributions are welcome! Please feel free to fork this repository and submit p
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE] file for details.
 ---
