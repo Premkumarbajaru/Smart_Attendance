@@ -7,10 +7,11 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 
 ## Table of Contents
 1. [Features](#features)  
-2. [Technologies Used](#technologies-used)  
-3. [Installation Guide](#installation-guide)  
-4. [Usage Guide](#usage-guide)  
-5. [License](#license)  
+2. [Technologies Used](#technologies-used)
+3. [Application Workflow](#application-workflow) 
+4. [Installation](#installation)  
+5. [Usage Guide](#usage-guide)  
+6. [License](#license)  
 
 ---
 
@@ -31,50 +32,6 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 - **Pillow**: For image processing.  
 
 ---
-
-## Installation Guide
-
-### Prerequisites
-1. Install **Python** (version 3.8 or above) from the [official Python website](https://www.python.org/).  
-2. Install **VS Code** for code editing and execution.  
-
----
-
-### Setup Steps
-
-#### 1. Clone the Repository
-\`\`\`bash
-git clone <repository_url>
-cd <project_directory>
-\`\`\`
-
-#### 2. Set Up Virtual Environment
-Open VS Code and launch the terminal using \`Ctrl + \` (backtick). Run the following commands:
-\`\`\`bash
-python -m venv venv
-venv\Scripts\activate  # Use & .venv\Scripts\Activate.ps1 for PowerShell
-\`\`\`
-
-#### 3. Install Dependencies
-Upgrade \`pip\` and install the required libraries:
-\`\`\`bash
-python -m pip install --upgrade pip
-pip install opencv-contrib-python numpy pandas matplotlib ipywidgets ipython pillow
-\`\`\`
-
-#### 4. Configure Python Interpreter
-Press \`Ctrl + Shift + P\` in VS Code, search for **Python: Select Interpreter**, and choose the interpreter from your \`venv\` folder.
-
----
-
-## Usage Guide
-
-### Launch the Application
-Run the following command to start the application:
-\`\`\`bash
-python main.py
-\`\`\`
-
 ### Application Workflow
 
 #### 1. Take Images  
@@ -102,7 +59,30 @@ The app supports a safe exit via the **Close Camera** button or the window close
 
 ---
 
-## License
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as per the terms of the license.
 
+## Installation
+
+To run CareCue locally, follow these steps:
+
+1. Clone this repository:
+```bash
+    https://github.com/likhith1409/CareCue_Main
+```
+2. Install dependencies:
+```bash
+   pip install -r requirements.txt
+```
+3. Run the Flask application:
+```bash
+   python app.py
+```
+4. Access CareCue in your web browser at `http://localhost:5000`.
+
+## Contributing
+
+Contributions are welcome! Please feel free to fork this repository and submit pull requests to suggest new features, enhancements, or bug fixes.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 ---
