@@ -36,7 +36,7 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 
 #### 1. Take Images  
 Capture images of students for training the model.  
-![Take Images](path_to_image/take_images.png)
+![Screenshot 2024-12-12 114112](https://github.com/user-attachments/assets/4324e068-901d-473c-8613-03f895b3b7eb)
 
 #### 2. Train Images  
 Train the facial recognition model using the captured images.  
