@@ -8,10 +8,11 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 ## Table of Contents
 1. [Features](#features)  
 2. [Technologies Used](#technologies-used)
-3. [Application Workflow](#application-workflow) 
-4. [Installation](#installation)  
-5. [Contributing](#Contributing)  
-6. [License](#license)  
+3. [Directory Structure](#DirectoryStructure)
+4. [Application Workflow](#application-workflow) 
+5. [Installation](#installation)  
+6. [Contributing](#Contributing)  
+7. [License](#license)  
 
 ---
 
@@ -32,6 +33,26 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 - **Pillow**: For image processing.  
 
 ---
+
+## Directory Structure
+```plaintext
+Attendance Management System using Face Recognition/
+│
+├── TrainingImage/               # Directory to store training images
+├── TrainingImageLabel/          # Directory to save trained model
+├── StudentDetails/              # Directory to save student details CSV
+├── Attendance/                  # Directory to save attendance records
+├── haarcascade_frontalface_default.xml  # Haarcascade file for face detection
+├── requirements.txt             # Required Python packages
+├── main_Run.py                  # Main application file
+├── training.py                  # Script for training the face recognition model
+├── testing.py                   # Script for testing face recognition
+├── mini_app.py                  # Simple GUI application for capturing images
+├── app.py                       # Streamlit app for attendance visualization
+└── README.md                    # Project documentation
+```
+
+
 ## Application Workflow
 
 #### 1. Take Images  
