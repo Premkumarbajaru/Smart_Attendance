@@ -10,7 +10,7 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 2. [Technologies Used](#technologies-used)
 3. [Application Workflow](#application-workflow) 
 4. [Installation](#installation)  
-5. [Usage Guide](#usage-guide)  
+5. [Contributing](#Contributing)  
 6. [License](#license)  
 
 ---
@@ -32,7 +32,7 @@ Welcome to the **Attendance Management System**, a comprehensive solution that l
 - **Pillow**: For image processing.  
 
 ---
-### Application Workflow
+## Application Workflow
 
 #### 1. Take Images  
 Capture images of students for training the model.  
